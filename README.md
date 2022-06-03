@@ -1,4 +1,4 @@
-# Project ObSEC - Occupancy based Smart Electronic Control
+## Project ObSEC - Occupancy based Smart Electronic Control
 
 ### Designed and developed by
 - [Aswin Sreekumar](https://github.com/aswin-sreekumar)
