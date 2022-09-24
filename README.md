@@ -3,7 +3,7 @@
 ### Designed and developed by
 - [Aswin Sreekumar](https://github.com/aswin-sreekumar)
 - [Harini Sabapathy](https://github.com/HariniSabapathy0212)
-- Subiksha T V
+- [Subiksha T V](https://github.com/SubikshaTV)
 
 ### Contents
 - [Problem statement](#problem-statement)
